@@ -6,7 +6,7 @@ Wollok Sublime Linter
 This linter plugin for [SublimeLinter][docs] provides an interface to [wchecker](https://github.com/uqbar-project/wollok/wiki/WDK---Wollok-Development-Kit) which is the Wollok static code analyzer. It will be used with files that have the “wollok” syntax.
 
 ## Installation
-SublimeLinter 3 must be installed in order to use this plugin. If SublimeLinter 3 is not installed, please follow the instructions [here][installation].
+SublimeLinter 3 must be installed in order to use this plugin.
 
 ### Linter installation
 Before using this plugin, you must ensure that `wchecker` is installed on your system. To install `wchecker`, do the following:
