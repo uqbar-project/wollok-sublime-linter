@@ -14,7 +14,6 @@ from SublimeLinter.lint import Linter, util
 
 
 class Wchecker(Linter):
-
     """Provides an interface to Wollok wchecker."""
 
     syntax = ['wollok']
