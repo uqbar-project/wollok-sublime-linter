@@ -53,7 +53,6 @@ class Wchecker(Linter):
         We override this because included header files can cause linter errors,
         and we only want errors from the linted file.
         """
-
         if match:
             if match.group('file') != self.filename:
                 match = None
