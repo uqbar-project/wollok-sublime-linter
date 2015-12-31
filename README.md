@@ -1,7 +1,7 @@
-SublimeLinter-contrib-wchecker
+Wollok Sublime Linter
 ================================
 
-[![Build Status](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-wchecker.svg?branch=master)](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-wchecker)
+[![Build Status](https://travis-ci.org/uqbar-project/wollok-sublime-linter.svg?branch=master)](https://travis-ci.org/uqbar-project/wollok-sublime-linter)
 
 This linter plugin for [SublimeLinter][docs] provides an interface to [wchecker](__linter_homepage__). It will be used with files that have the “wollok” syntax.
 
